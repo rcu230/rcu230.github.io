@@ -1,1 +1,5 @@
-rcu230.github.io
+{
+  url:rcu230.github.io,
+  open:false,
+  nav:true
+}
