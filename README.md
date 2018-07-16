@@ -1,5 +1,1 @@
-{
-  url:rcu230.github.io,
-  open:false,
-  nav:true
-}
+{"url":"rcu230.github.io","open":false,"nav":true}
