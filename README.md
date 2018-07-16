@@ -1,1 +1,1 @@
-{"url":"https://www.baidu.com/","open":false,"nav":false}
+{"url":"https://www.baidu.com/","open":true,"nav":true}
