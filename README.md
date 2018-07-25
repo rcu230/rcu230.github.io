@@ -1,1 +1,1 @@
-{"url":"http://jintai8855.com","open":false,"nav":true}
+{"url":"","open":false,"nav":true}
