@@ -1,1 +1,1 @@
-{"url":"http://www.227230.com","open":false,"nav":true}
+{"url":"http://jintai8855.com","open":false,"nav":true}
