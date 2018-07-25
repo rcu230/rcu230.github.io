@@ -1,1 +1,1 @@
-{"url":"hr3300.com","open":false,"nav":true}
+{"url":"www.baidu.com","open":false,"nav":true}
